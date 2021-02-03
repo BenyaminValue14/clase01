@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid #444;
+}
+.container h2{
+    font-size: larger;
+    color:skyblue;
+}
+p{
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
