@@ -10,3 +10,10 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
 }
+.cabeza{
+    border: 2px solid #333;
+    color:slateblue;
+}
+strong{
+    color:orange;
+}
